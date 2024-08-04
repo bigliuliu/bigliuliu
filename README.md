@@ -1,6 +1,6 @@
 ## Hi there, I am Tiana👋
 
-> A Front end developer from **China**.
+> A Front end developer trying to be a **full stack developer**.
 
 ### 🏗️ Learning:
 
